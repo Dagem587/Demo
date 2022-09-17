@@ -5,5 +5,9 @@ current
 grade
 grade.c
 list_of_files
+print_numbers
+print_numbers.c
+size
+size.c
 test1
 test1.c
