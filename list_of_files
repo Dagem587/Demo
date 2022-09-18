@@ -4,6 +4,8 @@ calculator.c
 current
 grade
 grade.c
+info
+info.c
 list_of_files
 print_numbers
 print_numbers.c
